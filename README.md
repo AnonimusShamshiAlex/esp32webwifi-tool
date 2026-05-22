@@ -274,21 +274,4 @@ curl -X POST http://192.168.4.1/api/start_crack \
 
 ```
 
-## 📝 Что нужно изменить перед публикацией:
-
-| Место | Что заменить |
-|-------|--------------|
-| `YOUR_USERNAME` | Ваш GitHub username |
-| `YOUR_GITHUB` | Ссылка на ваш GitHub |
-| `@YOUR_TELEGRAM` | Ваш Telegram (опционально) |
-
-## 📂 Структура для GitHub:
-
-```
-ESP32-Network-Scanner/
-├── ESP32_Network_Scanner.ino   # Ваш код
-├── README.md                    # Вышеуказанный README
-└── LICENSE                      # Файл лицензии MIT
-```
-
 
