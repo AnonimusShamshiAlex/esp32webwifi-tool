@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/YOUR_USERNAME/ESP32-Network-Scanner.git
+git clone https://github.com/AnonimusShamshiAlex/esp32webwifi-tool
 
 # Откройте файл ESP32_Network_Scanner.ino в Arduino IDE
 # Выберите плату: Инструменты → Плата → ESP32 → ESP32 Dev Module
