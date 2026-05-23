@@ -54,13 +54,9 @@
 
 ```
 ESP32-Network-Scanner/
-
-├── ESP32_Network_Scanner.ino
-# Основной код для Arduino IDE
-├── README.md              
-# Этот файл
-└── LICENSE        
-# Лицензия MIT
+├── ESP32_Network_Scansner.ino # Основной код для Arduino IDE
+├── README.md              # Этот файл
+└── LICENSE        # Лицензия MIT
 ```
 
 ## 🔧 Требования
