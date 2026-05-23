@@ -245,7 +245,6 @@ curl -X POST http://192.168.4.1/api/start_crack \
 
 - [Espressif](https://www.espressif.com/) за отличные ESP32
 - [ArduinoJson](https://arduinojson.org/) за удобную работу с JSON
-- [Chart.js](https://www.chart.js/) за красивые графики
 
 ## 📞 Контакты
 
