@@ -2,10 +2,6 @@
 ```markdown
 # 🔍 ESP32 Ultimate Network Scanner
 
-[![Platform](https://img.shields.io/badge/platform-ESP32-blue)](https://www.espressif.com/)
-[![Framework](https://img.shields.io/badge/framework-Arduino-00979D)](https://www.arduino.cc/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
 **ESP32 Ultimate Network Scanner** — это многофункциональный инструмент для сканирования WiFi сетей, подбора паролей (брутфорс), обнаружения устройств в локальной сети и сканирования портов. Всё управление осуществляется через красивый веб-интерфейс с автообновлением.
 
 ## 📋 Возможности
